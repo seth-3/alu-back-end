@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 Exports data of all employees' TODO lists to a JSON file.
