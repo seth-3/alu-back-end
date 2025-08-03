@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 """
 Module: 0-gather_data_from_an_API
 This module fetches and displays information about
@@ -41,7 +40,7 @@ Output:
     completed tasks, and the titles of those tasks.
 """
 
-import requests
+import requests 
 import sys
 
 
@@ -87,4 +86,3 @@ if __name__ == "__main__":
     )
     for task in done_tasks:
         print("\t{}".format(task.get("title")))
-        
