@@ -1,7 +1,7 @@
 
 #!/usr/bin/python3
 """
-Exports data of an employee's TODO list to a JSON file.
+Exports data of an employee's Todo list to a JSON file.
 format: {"USER_ID": [{"task": ..., "completed": ..., "username": ...}, ...]}
 """
 import json

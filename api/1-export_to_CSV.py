@@ -1,6 +1,8 @@
+
 #!/usr/bin/python3
+
 """
-Exports data of an employee's TODO list to a CSV file.
+Exports data of an employee's Tdo list to a CSV file.
 Format: "USER_ID", "USERNAME", "TASK_COMPLETED_STATUS", "TASK_TITLE"
 """
 
